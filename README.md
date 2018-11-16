@@ -15,8 +15,10 @@ We have made several attempts in the past for democratizing the use of FAMILIAR 
  * with Docker
  * programmatically, with a fluent API in Java 
 
-... and online (demonstration here: https://www.youtube.com/watch?v=RYEN4hY0jC0) 
+... and online (demonstration here: https://www.youtube.com/watch?v=RYEN4hY0jC0). 
 We relied on Play! framework 2.2.0 (http://www.playframework.com/documentation/2.2.0) and some Javascripts (ACE editor and jqconsole): https://github.com/FAMILIAR-project/webfml http://familiar.variability.io/ide/familiar 
+The development/maintenance was time-consuming and the user experience not optimal. 
+So it's time to try other solutions! 
 
 ## Jupyter
 
