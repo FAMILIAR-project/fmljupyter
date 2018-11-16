@@ -21,6 +21,11 @@ We relied on Play! framework 2.2.0 (http://www.playframework.com/documentation/2
 ## Jupyter
 
 It's yet another attempt to put FAMILIAR online, this time with Jupyter. 
+See demonstration in the repo. 
+
+## Requirements 
+
+FAMILIAR JARs + beakerx 
 
 
 
