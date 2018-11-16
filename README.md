@@ -1,11 +1,8 @@
 # fmljupyter (FAMILIAR on Jupyter) 
 
 Ongoing effort to put advanced feature model management into the Web (Jupyter). 
-What about writing the following line:
-```
-FM ("H : [E] [LL] [O] (W|R); W -> LL;").counting();
-```
-and obtaining the answer 12 in the browser?  
+What about writing the following line right in the browser: `FM ("H : [E] [LL] [O] (W|R); W -> LL;").counting();`
+and of course obtaining the answer 12?  
 
 ## Motivation 
 FAMILIAR (for FeAture Model scrIpt Language for manIpulation and Automatic Reasoning) is a language for importing, exporting, composing, decomposing, editing, configuring, computing "diffs", refactoring, reverse engineering, testing, and reasoning about (multiple) feature models. All these operations can be combined to realize complex variability management tasks: https://familiar-project.github.io/
